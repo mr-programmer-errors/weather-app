@@ -7,7 +7,7 @@ import "./App.css";
 
 type Unit = "metric" | "imperial";
 
-const API_KEY = "19c2db23967a887d904307b84db89d2e"; // <- put your key here
+const API_KEY = ""; // <- put your key here
 
 type Coords = { lat: number; lon: number } | null;
 
